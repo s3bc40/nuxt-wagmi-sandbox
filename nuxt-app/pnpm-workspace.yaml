@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - bufferutil
+  - esbuild
+  - keccak
+  - utf-8-validate
+  - vue-demi
